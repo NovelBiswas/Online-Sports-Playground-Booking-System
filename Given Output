@@ -1,0 +1,178 @@
+						 Welcome To Novel's Playground
+
+			 1 Booking
+
+			 2 Playground_Info
+
+			 3 Payment
+
+			 4 Record
+
+			 0 Exit
+
+
+->2
+ 
+1).Hockey court
+---------------------------------------------------------------
+---Well maintained court,
+---3 to 5 star feedback given by customer
+2).Basketball court
+---------------------------------------------------------------
+---Well maintained court,
+---3 to 5 star feedback given by customer
+3).Tennise court
+---------------------------------------------------------------
+---Well maintained court,
+---3 to 5 star feedback given by customer
+4).Cricket Ground
+---------------------------------------------------------------
+---Well maintained court,
+---3 to 5 star feedback given by customer
+
+
+0-BACK
+ ->0
+						 Welcome To Novel's Playground
+
+			 1 Booking
+
+			 2 Playground_Info
+
+			 3 Payment
+
+			 4 Record
+
+			 0 Exit
+
+
+->1
+ 
+ BOOKING playground
+ 
+
+Name: Novel
+
+Phone No.: 1234567890
+
+Address: WB
+
+Booked-In: 12/12/2021
+
+Booked-Out: 13/12/2021
+----SELECT Playground TYPE----
+ 1. Hockey court
+ 2. Basketball court
+ 3. Tennise court
+ 4. Cricket Ground
+		Press 0 for playground Prices
+
+->2
+ground Type- Basketball court
+Price- 4000
+
+			***Playground BOOKED SUCCESSFULLY***
+
+Playground No. -  317
+Customer Id -  43
+
+0-BACK
+ ->0
+						 Welcome To Novel's Playground
+
+			 1 Booking
+
+			 2 Playground_Info
+
+			 3 Payment
+
+			 4 Record
+
+			 0 Exit
+
+
+->3
+ 
+
+Phone Number: 1234567890
+ Payment
+ --------------------------------
+ MODE OF PAYMENT
+ 1- Credit/Debit Card
+ 2- Paytm/PhonePe
+ 3- Using UPI
+ 4- Cash
+
+-> 2
+
+ Amount:  4000
+
+		 Pay For Novel
+ (y/n)
+
+->y
+
+
+ --------------------------------
+		 Novel's Playground
+ --------------------------------
+			 Bill
+ --------------------------------
+ Name:  Novel 	
+ Phone No.:  1234567890 	
+ Address:  WB 	
+
+ Booked-In:  12/12/2021 	
+ Booked-Out:  13/12/2021 	
+
+ Playground Type:  Basketball court 	
+ Playground Charges:  4000 	
+ --------------------------------
+
+ Total Amount:  4000 	
+ --------------------------------
+		 Thank You
+		 Visit Again :)
+ --------------------------------
+
+
+0-BACK
+ ->0
+						 Welcome To Novel's Playground
+
+			 1 Booking
+
+			 2 Playground_Info
+
+			 3 Payment
+
+			 4 Record
+
+			 0 Exit
+
+
+->4
+ 
+	 *** PLAYGROUND RECORD ***
+
+| Name	 | Phone No. | Address	 | Booked-In | Booked-Out	 | Playground Type	 | Price	 |
+----------------------------------------------------------------------------------------------------------------------
+| Novel 	 | 1234567890 	| WB 	| 12/12/2021 	| 13/12/2021 	| Basketball court 	| 4000
+----------------------------------------------------------------------------------------------------------------------
+
+0-BACK
+ ->0
+						 Welcome To Novel's Playground
+
+			 1 Booking
+
+			 2 Playground_Info
+
+			 3 Payment
+
+			 4 Record
+
+			 0 Exit
+
+
+->
