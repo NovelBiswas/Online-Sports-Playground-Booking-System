@@ -1,0 +1,3 @@
+date should be entered as dd/mm/yyyy.
+
+(" / ") is used to seperate date, months and years as given in python code.
