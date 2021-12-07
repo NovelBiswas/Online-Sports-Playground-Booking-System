@@ -1,0 +1,11 @@
+Home()- Function to display the project’s main screen i.e. the home page of the project or you can say the main menu for selecting the desired operation to perform. 
+ 
+Date(str)- Function to validate date entered by the user/customer. (example: dd/mm/yyyy)
+ 
+Booking()- Function for booking playground by entering user/customer details. 
+ 
+Playground_Info()- Function to provide users/customers with Playground information.
+
+Payment()- Function for payment of selected playground bill generation at the time of check-out. 
+ 
+Record()- Function for keeping records of customers payments. 
